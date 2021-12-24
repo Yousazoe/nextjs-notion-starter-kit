@@ -4,7 +4,7 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 2a8f237550a34b6690ac08c157761c7b,
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'Video Game Tracker',
