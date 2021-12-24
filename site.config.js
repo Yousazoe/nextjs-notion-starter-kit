@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b05999823bd14b57a7a6cd81fba1a1af?v=2a8f237550a34b6690ac08c157761c7b',
+  rootNotionPageId: 'b05999823bd14b57a7a6cd81fba1a1af',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  //twitter: 'transitive_bs',
+  twitter: 'Yousazoe',
   github: 'Yousazoe',
   //linkedin: 'fisch2',
 
